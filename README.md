@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Martin Bojinov
+- 👋 Hi, I’m Martin Bojinov. This Github serves as a collection of many of my projects. Some projects are private and availabe upon request due to institution policies.
 - 📫 You can find me @ linkedin.com/in/martin-bojinov/
 
 <!---
